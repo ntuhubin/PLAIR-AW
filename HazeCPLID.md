@@ -1,1 +1,0 @@
-HazeCPLID: This dataset is created based on CPLID [17], which consists of 848 pairs of hazy and clean images. The size of images is 84 × 84. The total images are divided into 700 and 148 for training and testing, respectively. 
