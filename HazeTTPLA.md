@@ -1,0 +1,1 @@
+HazeTTPLA: This dataset is created based on TTPLA [18], which consists of 1242 paired hazy and clean images with the size of 512×512 pixels. The total images are divided into 1000 and 242 for training, validation and testing, respectively.
