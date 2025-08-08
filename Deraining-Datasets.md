@@ -5,4 +5,4 @@ RainTTPLA:This dataset is generated upon TTPLA, which has two subsets of RainTTP
 RainInsPLAD:This dataset is generated upon InsPLAD, which has two subsets of RainInsPLAD-L and RainInsPLAD-H. The former is produced with light rain streaks, while the latter is produced with heavy light rain steaks. Both subsets contains 10,607 pairs of rainy and clean images in 1920×1080
 resolution. The total images are divided into 7981 and 2626 images for training and testing, respectively.
 
-The dataset have been uploaded to Cloud Drive: https://pan.ntu.edu.cn/l/s1RL7R
+The dataset have been uploaded to Cloud Drive: https://pan.ntu.edu.cn/l/NJicbg
